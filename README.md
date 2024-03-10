@@ -1,1 +1,1 @@
-Projweto criado a pedido do professor Demétrio Reno, de Sistemas Web.
+Projeto criado a pedido do professor Demétrio Reno, de Sistemas Web.
