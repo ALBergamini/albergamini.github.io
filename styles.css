@@ -1,0 +1,25 @@
+body {
+    font-size: 17px;
+    line-height: 1.8;
+    font-family:'Times, Times New Roman, serif';
+    margin: 0;
+    padding: 0; 
+    font-family: 'Helvetica', sans-serif; 
+    }
+    
+    
+    table {
+    
+    text-align: left;
+    
+    }
+
+    .button {
+
+        background-color:#f7f7f76c;
+        
+        color: #000000;
+
+        
+    }
+
