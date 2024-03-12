@@ -8,18 +8,35 @@ body {
     }
     
     
-    table {
+table {
     
     text-align: left;
     
     }
 
-    .button {
+.button {
 
-        background-color:#f7f7f76c;
+    background-color:#8ee2a36c;
         
-        color: #000000;
+    color: #013008;
 
         
     }
 
+.buttonl {
+
+    background-color:#f3151548;
+            
+    color: #631313;
+    
+            
+        }
+    
+
+
+a {
+    background-color: #e4eef5;
+    color:#0509fc;
+    border: 1px solid;
+    border-radius: 5%;
+}
