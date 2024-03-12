@@ -1,0 +1,42 @@
+body {
+    font-size: 17px;
+    line-height: 1.8;
+    font-family:'Times, Times New Roman, serif';
+    margin: 0;
+    padding: 0; 
+    font-family: 'Helvetica', sans-serif; 
+    }
+    
+    
+table {
+    
+    text-align: left;
+    
+    }
+
+.button {
+
+    background-color:#8ee2a36c;
+        
+    color: #013008;
+
+        
+    }
+
+.buttonl {
+
+    background-color:#f3151548;
+            
+    color: #631313;
+    
+            
+        }
+    
+
+
+a {
+    background-color: #e4eef5;
+    color:#0509fc;
+    border: 1px solid;
+    border-radius: 5%;
+}
